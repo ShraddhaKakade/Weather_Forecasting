@@ -25,7 +25,7 @@
 1. ARIMA
 2. SARIMAX
 3. Prophet
-4. XGBoost
+4. XGBoost Regressor
 
 ## ✅ Evaluation:
 
